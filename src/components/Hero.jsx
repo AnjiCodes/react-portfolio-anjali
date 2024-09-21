@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import resume from "../assets/Anjali-Resume-General.pdf";
+import resume from "../assets/Anjali-Mahida_RESUME-LATEST.pdf";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
