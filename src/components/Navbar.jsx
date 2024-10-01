@@ -1,5 +1,5 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
-import resume from "../assets/Anjali-Mahida_RESUME-LATEST.pdf";
+import resume from "../assets/Anjali-Resume.pdf";
 
 const Navbar = () => {
   return (
