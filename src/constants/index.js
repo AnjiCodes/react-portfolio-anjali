@@ -44,7 +44,7 @@ export const EXPERIENCES = [
   {
     year: "June'2019 - Nov'2022",
     role: "Digital Media Manager",
-    company: "FirstFeetPhotography Studio (Remote)",
+    company: "FirstFeetFotography Studio (Remote)",
     description: `Boosted engagement and reach through strategic content, and targeted ad campaigns while managing social media with Buffer.`,
     type: ["Work Experience"],
   },
