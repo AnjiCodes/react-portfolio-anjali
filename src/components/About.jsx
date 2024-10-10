@@ -60,14 +60,13 @@ const About = () => {
           I’m passionate about exploring new technologies and taking on diverse challenges.
           </p>
           <p className="my-2 max-w-xl text-gray-100 font-extralight">
-          I recently graduated from a 
-          Post-Graduate Cloud Computing program and am currently diving deep into cloud 
-          technologies like AWS, Google Cloud, Docker, and Kubernetes.
+          Currently I am diving into cloud technologies like AWS and incorporating it with Web development.
+          when it comes to soft skills, I am great at communication and I am actually a quick learner. 
+          I love to learn and know about tech, art, food anything & everything that this world has to offer.
+          
           </p>
           <p className="my-2 max-w-xl text-white font-light">
-          "I enjoy building code that solves problems and makes digital experiences both powerful and user-friendly"
-          </p>
-        
+          My top affirmation: 'I enjoy creating code that solves problems and makes digital experiences both powerful and user-friendly </p>
           </div>
         </motion.div>
       </div>
