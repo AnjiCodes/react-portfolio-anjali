@@ -43,6 +43,8 @@ const About = () => {
                 1000,
                 '👋🏻Bonjour',
                 1000,
+                '👋🏻Ciao',
+                1000,
                 '👋🏻Hola',
                 1000,
                 '👋🏻Nǐ hǎo',
