@@ -67,8 +67,8 @@ const About = () => {
           I love to learn and know about tech, art, food anything & everything that this world has to offer.
           
           </p>
-          <p className="my-2 max-w-xl text-white font-light">
-          My top affirmation: 'I enjoy creating code that solves problems and makes digital experiences both powerful and user-friendly </p>
+          <p className="my-2 max-w-xl text-white font-light italic">
+          My top affirmation: "I enjoy creating code that solves problems and makes digital experiences both powerful and user-friendly" </p>
           </div>
         </motion.div>
       </div>
