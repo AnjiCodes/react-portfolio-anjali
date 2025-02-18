@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import resume from "../assets/Anjali-Resume.pdf";
+import resume from "../assets/AnjaliMahida-Resume.pdf";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
@@ -34,7 +34,7 @@ const Hero = () => {
             >
               Web Developer | Web Designer | Cloud Enthusiast
             </motion.p>
-            {/* <motion.p
+            <motion.p
               variants={container(1.0)}
               initial="hidden"
               animate="visible"
@@ -42,12 +42,12 @@ const Hero = () => {
               >
               <a 
                 href={resume} 
-                download="Anjali_Mahida_Resume.pdf" 
+                download="AnjaliMahida-Resume.pdf" 
                 className="pb-16 text-2xl font-normal tracking-normal text-slateblue nunito hover:text-white transition duration-150"
                 >
                 RESUME ↗
               </a>
-            </motion.p> */}
+            </motion.p>
           </div>
         </div>
       </div>
