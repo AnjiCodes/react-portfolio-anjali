@@ -34,7 +34,7 @@ const Hero = () => {
             >
               Web Developer | Web Designer | Cloud Enthusiast
             </motion.p>
-            <motion.p
+            {/* <motion.p
               variants={container(1.0)}
               initial="hidden"
               animate="visible"
@@ -47,7 +47,7 @@ const Hero = () => {
                 >
                 RESUME ↗
               </a>
-            </motion.p>
+            </motion.p> */}
           </div>
         </div>
       </div>

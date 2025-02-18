@@ -1,5 +1,5 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
-import resume from "../assets/Anjali-Mahida_Resume_WebDeveloper-FW.pdf";
+import resume from "../assets/AnjaliMahida-Resume.pdf";
 
 const Navbar = () => {
   return (
@@ -18,7 +18,7 @@ const Navbar = () => {
         </a>
         <a 
           href={resume} 
-          download="Anjali_Mahida_Resume.pdf" 
+          download="AnjaliMahida-Resume.pdf" 
           className="tracking-normal mt-1 nunito text-white text-2xl font-thin hover:text-neutral-400 transition duration-150"
         >
           Resume ↗
