@@ -21,35 +21,35 @@ I love creating digital spaces that look good and work even better.`;
 
 export const EXPERIENCES = [
   {
-    year: "Jan'2024 - Aug'2024",
+    year: "Jan 2024 - Aug 2024",
     role: "Post-Grad Certificate in Cloud Computing",
     company: "Humber College (Faculty of Applied Science and Technology)",
     description: `Studied AWS, GCP, Azure, with hands-on experience in Docker, Kubernetes, Terraform, and Ansible. Completed projects in cloud architecture, big data, and DevOps.`,
     type: ["Education"],
   },
   {
-    year: "Jan'2023 - Dec'2023",
+    year: "Jan 2023 - Dec 2023",
     role: "Post-Grad Certificate in Web Development",
     company: "Humber College (Faculty of Creative Media and Arts)",
     description: `Completed full-stack web development program covering ASP.NET, MERN stack, PHP, and Laravel, with a focus on responsive design, usability testing, and project management.`,
     type: ["Education"],
   },
   {
-    year: "Jan'2022 - April'2022",
+    year: "Jan 2022 - April 2022",
     role: "Backend Developer Intern",
     company: "SCIKEY - India (On-site)",
     description: `Developed backend features with Node.js, Express, and MySQL, improving data retrieval speed and deployment efficiency.`,
     type: ["Work Experience"],
   },
+  // {
+  //   year: "June 2019 - Nov 2022",
+  //   role: "Digital Media Manager",
+  //   company: "The First Feet Fotography Studio (Remote)",
+  //   description: `Boosted engagement and reach through strategic content, and targeted ad campaigns while managing social media with Buffer.`,
+  //   type: ["Work Experience"],
+  // },
   {
-    year: "June'2019 - Nov'2022",
-    role: "Digital Media Manager",
-    company: "The First Feet Fotography Studio (Remote)",
-    description: `Boosted engagement and reach through strategic content, and targeted ad campaigns while managing social media with Buffer.`,
-    type: ["Work Experience"],
-  },
-  {
-    year: "June'2019 - May'2022",
+    year: "June 2019 - May 2022",
     role: "Bachelor of Science in Information Technology",
     company: "Auro University",
     description: `Studied programming, database management, and networking with a focus on Linux, web development, and information security.`,
